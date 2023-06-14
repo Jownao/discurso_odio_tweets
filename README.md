@@ -4,6 +4,8 @@ Repositório contendo conjunto de dados utilizados para análise de discurso de 
 
 Foi feito esse estudo com base nos tweets coletados utilizando a API do twitter atráves do meu trabalho de conclusão de curso disponível [aqui](https://github.com/Jownao/tweet_polarity_analysis) onde é possível ver todos métodos de pré-processamento utilizados bem como a forma que feito o treinamento para que se chegasse ao conjunto final de dados utilizados aqui nesse estudo.
 
+A apresentação referente a esse trabalho se encontra neste link do [canva](https://www.canva.com/design/DAFltu664CA/iCy7qRuw0pmEV0GHSccxpQ/view).
+
 ### Objetivos
 
 ##### Geral
