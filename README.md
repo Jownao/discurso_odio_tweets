@@ -21,6 +21,8 @@ Para alcançar o objetivo geral, delineiam-se os seguintes objetivos específico
 ### Estruturação do repositório
 
 ```
+|- datasets
+  |- tweets_trabalho.xlsx
 |- LICENSE
 |- README.md
 |- Trabalho_pratico_2UN.ipynb
